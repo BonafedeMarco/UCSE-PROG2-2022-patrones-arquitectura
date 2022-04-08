@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDeNegocio", "LogicaDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{98EA908A-58BD-49FF-B4EA-4E39CA6E9600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{77B5648B-ED61-409C-9E99-B7050BA4D5AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{98EA908A-58BD-49FF-B4EA-4E39CA6E9600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98EA908A-58BD-49FF-B4EA-4E39CA6E9600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98EA908A-58BD-49FF-B4EA-4E39CA6E9600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B5648B-ED61-409C-9E99-B7050BA4D5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B5648B-ED61-409C-9E99-B7050BA4D5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B5648B-ED61-409C-9E99-B7050BA4D5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B5648B-ED61-409C-9E99-B7050BA4D5AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

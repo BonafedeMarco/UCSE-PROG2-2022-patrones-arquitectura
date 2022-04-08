@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Entidades;
-using Persistencia;
 
-namespace LogicaDeNegocio
+namespace Entidades
 {
-    public class Logica
+    public sealed class Enumeradores
     {
-
+        public enum TipoEnfermedad { Coronaria, Mental, Etc}
     }
 }
