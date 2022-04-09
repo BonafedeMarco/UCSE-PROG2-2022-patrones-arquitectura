@@ -8,7 +8,7 @@ namespace Entidades
 {
     public sealed class Enfermedad
     {
-        public Enumeradores.TipoEnfermedad tipo { get; private set; }
+        public Enumeradores.TiposEnfermedad tipo { get; private set; }
         public string nombre { get; private set; }
         public double costo { get; private set; }
     }

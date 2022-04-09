@@ -8,6 +8,6 @@ namespace Entidades
 {
     public sealed class Enumeradores
     {
-        public enum TipoEnfermedad { Coronaria, Mental, Etc}
+        public enum TiposEnfermedad { Coronaria, Mental, Etc}
     }
 }

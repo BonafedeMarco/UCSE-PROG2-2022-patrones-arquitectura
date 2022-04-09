@@ -8,6 +8,7 @@ namespace Entidades
 {
     public abstract class Cobertura
     {
+        public int numero { get; private set; }
         public string descripcion { get; private set; }
         public string empresa { get; private set; }
         public short maximoFamiliares { get; private set; }
